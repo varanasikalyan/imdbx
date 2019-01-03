@@ -1,0 +1,16 @@
+.splash-screen {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  height: 90vh;
+  padding-top: 20px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.logo {
+  width: 140px;
+  height: 70px;
+}

@@ -1,0 +1,14 @@
+.row-height {
+  margin-top: 15px;
+}
+
+.row {
+  text-align: left !important;
+}
+
+.content {
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  height: 90vh;
+}
