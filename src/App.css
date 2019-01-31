@@ -18,6 +18,14 @@
   color: white;
 }
 
+.splash-screen {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+}
+
 .App-link {
   color: #61dafb;
 }

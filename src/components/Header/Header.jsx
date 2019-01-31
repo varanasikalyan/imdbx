@@ -8,7 +8,6 @@ class Header extends Component {
       <div>
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
           <div className="container">
-            <span className="logo-prefix">Welcome to</span>
             <Link to="/" className="navbar-brand">  
               <img
                 src={require("../../static/images/logo/logo.png")}
@@ -30,7 +29,7 @@ class Header extends Component {
             <div className="collapse navbar-collapse" id="navbarsOptions">
               <ul className="navbar-nav mr-auto">
                 <li className="nav-item padding">
-                  <span className="logo-suffix">an Advanced search engine for IMDb</span>
+                  <span className="logo-suffix">an Advanced IMDb search</span>
                 </li>
               </ul>
               <ul className="navbar-nav">

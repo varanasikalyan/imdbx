@@ -22,7 +22,7 @@ class SignIn extends Component {
 	}
   render() {
     return (
-		<div className="container content">
+		<div className="container" id="signInContainer">
 			<div className="wrap-login-style">
 				<form method="POST" action="" onSubmit={this.onSubmit} className="form-signin">
 					<fieldset className="form-group">

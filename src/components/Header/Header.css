@@ -53,13 +53,6 @@
   font-size: 20px;
 }
 
-.logo-prefix {
-  color: #fff;
-  font-weight: 400;
-  margin-right: 15px;
-  font-size: 20px;
-}
-
 .icon-text {
   color: #fff;
   font-weight: 400;
@@ -75,7 +68,9 @@
 }
 
 .navbar {
-  height: 10vh;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: transparent !important;
 }
 
 .border-button {

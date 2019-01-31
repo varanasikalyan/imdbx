@@ -23,7 +23,7 @@ class SignUp extends Component {
     console.log(this.state); 
   }
   render() {
-    return ( < div className = "container content" >  < div className = "wrap-login-style" >  < form method = "POST"onSubmit =  {this.onSubmit}className = "form-signin" >  < fieldset className = "form-group" >  < img
+    return ( < div className = "container" id="signUpContainer">  < div className = "wrap-login-style" >  < form method = "POST"onSubmit =  {this.onSubmit}className = "form-signin" >  < fieldset className = "form-group" >  < img
                 className = "mb-3"
                 src =  {require("../../static/images/signup.png")}
                 alt = "Sign Up"
